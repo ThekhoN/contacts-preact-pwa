@@ -1,3 +1,4 @@
 # preact-pwa
 
-##	demo at https://estates-officer-gerald-74583.netlify.com/
+<br/>
+demo at http://139.59.56.102:3000/

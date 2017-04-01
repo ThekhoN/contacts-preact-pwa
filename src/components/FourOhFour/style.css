@@ -1,0 +1,8 @@
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  padding: 3em 5em;
+  height: 50vh;
+}

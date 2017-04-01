@@ -1,0 +1,24 @@
+.contacts {
+  color: white;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+  letter-spacing: 1px;
+  font-weight: 100;
+  padding: 1em;
+  display: block;
+}
+
+.ul {
+  list-style: none;
+}
+
+.li {
+
+}
+
+.li:hover {
+  background: purple;
+}
